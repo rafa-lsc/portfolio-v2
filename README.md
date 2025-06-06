@@ -4,6 +4,6 @@ Esse repositório contém a segunda página desenvolvida na capacitação web da
 # Preview
 ![Preview da secao hero](./src/img/preview-2.png)
 
-# Descrição
+# Estrutura
 A página é um portfólio pessoal, estruturado com uma header; Uma seção com resumo pessoal, foto e links para contato;
-Uma seção com os últimos projetos realizados e um footer com insofrmações gerais.
+Uma seção com os últimos projetos realizados e um footer com informações gerais.
